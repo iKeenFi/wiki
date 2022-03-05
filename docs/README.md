@@ -1,4 +1,5 @@
 <!-- docs/_sidebar.md -->
+<img src="./assets/logo_transparent_big.png" alt="Welcome to iKeen" width="400"/>
 
 > iKeen is a DeFi protocol on the Avalanche C-Chain pegged through seigniorage to the value of 1 AVAX.
 
@@ -8,7 +9,6 @@ iKeen works by inflating the KEEN supply when above peg (1 KEEN > 1.01 AVAX) and
 
 - Website - https://ikeenfi.app/ (upcoming)
 - Twitter - https://twitter.com/iKeenfinance
-- Medium - https://medium.com/@iKeenfinance
 - Discord - https://discord.gg/u6J9Qe2Wnq
 - Blog - https://paper.wf/ikeen-finance
 - Matrix - https://matrix.to/#/#ikeen-finance:matrix.org
