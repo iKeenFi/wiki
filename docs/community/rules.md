@@ -20,7 +20,7 @@ And I don't mean the coin kind of shilling, I mean the verb to shill. Don't adve
 
 ### 5. Please no spam/flood
 
-The mods have me here to be an automod and dropkick spammers. This rule is mainly enforced by me. Just please don't spam whatever awesome message you've got to say. Once or twice is enough.
+Please don't spam whatever awesome message you've got to say. Once or twice is enough.
 
 ### 6. **NO SCAMMING!**
 
