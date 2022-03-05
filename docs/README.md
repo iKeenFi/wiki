@@ -1,4 +1,4 @@
-# Welcome
+<!-- docs/_sidebar.md -->
 
 > iKeen is a DeFi protocol on the Avalanche C-Chain pegged through seigniorage to the value of 1 AVAX.
 
