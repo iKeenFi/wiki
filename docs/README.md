@@ -1,5 +1,4 @@
-<!-- docs/_sidebar.md -->
-<img src="./assets/logo_transparent_big.png" alt="Welcome to iKeen" width="400"/>
+<img src="./assets/logo_transparent_nomargin.png" alt="Welcome to iKeen" width="400"/>
 
 > iKeen is a DeFi protocol on the Avalanche C-Chain pegged through seigniorage to the value of 1 AVAX.
 

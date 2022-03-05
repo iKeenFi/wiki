@@ -1,0 +1,39 @@
+:root {
+  /* Theme */
+  --theme-hue: 271;
+  --theme-saturation: 68%;
+  --theme-lightness: 62%;
+  --theme-color: hsl(
+    var(--theme-hue),
+    var(--theme-saturation),
+    var(--theme-lightness)
+  );
+
+  /* Monochrome */
+  --mono-hue: 255;
+  --mono-saturation: 0%;
+  --mono-lightness: 0%;
+
+  /* Monochrome shades (darker) and tints (lighter) */
+  --mono-shade3: hsl(
+    var(--mono-hue),
+    var(--mono-saturation),
+    20%
+  ); /* #333333 */
+  --mono-shade2: hsl(
+    var(--mono-hue),
+    var(--mono-saturation),
+    20%
+  ); /* #4d4d4d */
+  --mono-shade1: hsl(
+    var(--mono-hue),
+    var(--mono-saturation),
+    20%
+  ); /* #666666 */
+  --mono-base: hsl(var(--mono-hue), var(--mono-saturation), 10%);
+  --mono-tint1: hsl(var(--mono-hue), var(--mono-saturation), 20%);
+  --mono-tint2: hsl(var(--mono-hue), var(--mono-saturation), 89%);
+  --mono-tint3: hsl(var(--mono-hue), var(--mono-saturation), 97%);
+
+  --sidebar-toggle-icon-color: var(--base-color);
+}
