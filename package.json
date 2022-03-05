@@ -1,9 +1,10 @@
 {
-  "name": "ikeen-wiki",
+  "name": "ikeen-docs",
   "scripts": {
-    "start": "docsify serve docs"
+    "start": "docpress s",
+    "build": "docpress b"
   },
   "devDependencies": {
-    "docsify-cli": "^4.4.3"
+    "docpress": "^0.8.2"
   }
 }
