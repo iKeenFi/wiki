@@ -6,8 +6,8 @@ iKeen works by inflating the KEEN supply when above peg (1 KEEN > 1.01 AVAX) and
 
 ### Official Links
 
-- Website - https://ikeenfi.app/ (upcoming)
+- Website - https://ikeenfi.app/
 - Twitter - https://twitter.com/iKeenfinance
 - Discord - https://discord.gg/u6J9Qe2Wnq
-- Blog - https://paper.wf/ikeen-finance
+- Blog - https://paper.wf/ikeenfi
 - Matrix - https://matrix.to/#/#ikeen-finance:matrix.org
