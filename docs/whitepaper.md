@@ -1,8 +1,10 @@
-# Whitepaper
+## Whitepaper
 
 The $KEEN algorithmic token serves as the backbone of a rapidly growing ecosystem aimed towards bringing liquidity and new use cases to the Avalanche C-Chain.
 
 The protocol's underlying mechanism dynamically adjusts $KEEN's supply, pushing its price up or down relative to the price of $AVAX.
+
+<!--more-->
 
 Inspired by the original idea behind Basis as well as its predecessors (bDollar and soup) and then by Tomb Finance, iKeen Finance is a multi-token protocol which consists of the following three tokens:
 - KEEN pegged token ($KEEN).
@@ -40,7 +42,7 @@ $iSKEEN holders will have voting rights (governance) on proposals in the future 
 
 - Liquidity providers for pools on the SPIRAL: 50000 $iSKEEN are allocated for incentivizing Liquidity Providers in two shares pools for 12 months.
 - DAO allocation: 10000 $iSKEEN vested gradually over a year.
-- Team allocation: 30000 $iSKEEN vested gradually over a year.
+- Team allocation: 30000 $iSKEEN vested gradually over a year.10 000 $ISKEEN from team allocation will be dedicated to Marketing , Giveaways and Burns.
 
 The remaining 10000 $iSKEEN are dedicated for the ICO, a small part of the funds will be used to create initial liquidity to kickstart the protocol. The rest of the funds from ICO will be used for marketing, team allocation and for other needs of the protocol. The cost per token on the ICO will be 10$/iSKEEN.
 
@@ -102,9 +104,7 @@ Shares Pools (Shares Reward) available for 12 months:
 KEEN-AVAX LP: 30000 Shares  
 ISKEEN-AVAX LP: 20000 Shares
 
-### OFFICIAL ROADMAP
 
-![](https://i.snap.as/Pg2bgd7B.png)
 
 ### OFFICIAL CONTRACT TOKENS
 
