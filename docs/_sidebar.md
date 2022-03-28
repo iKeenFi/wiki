@@ -6,3 +6,6 @@
   - [Join us!](/community/connect)
 - [Whitepaper](/whitepaper)
 - [Tokens](/tokens)
+- [Contracts](/contracts)
+- [Expansion](/expansion)
+- [Roadmap](/roadmap)
