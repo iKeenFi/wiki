@@ -8,7 +8,6 @@
 - Get back to peg
 - NFT drop
 - iKeen Raffle
-- Autocompounders
 - Zap functionality for LPs
 
 ### Q3 2022
