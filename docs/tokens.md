@@ -1,10 +1,15 @@
 # Keen Tokens
 
 <img style="display: inline-block; float: right; margin-left: 20px;" src="https://i.snap.as/H00alW6q.png" width="150"></img>
+
 ### $KEEN
-The $KEEN token is designed to be used as a medium of exchange. The built-in stability mechanism in the protocol aims to maintain KEEN's peg to 1 AVAX in the long run.
+
+The $KEEN token is designed to be used as a medium of exchange. The built-in stability mechanism in the protocol aims to maintain KEEN's peg to 0.1 AVAX in the long run.
+
+[Buy KEEN with AVAX on TraderJoe](https://buykeen.ikeenfi.app) (quick link: https://buykeen.ikeenfi.app)
 
 <img style="display: inline-block; float: left; margin-right: 20px;" src="https://i.snap.as/oHSxhhll.png" width="150"></img>
+
 ### $iSKEEN
 
 Keen Shares ($iSKEEN) are one of the ways to measure the value of the iKeen Protocol and shareholder trust in its ability to maintain $KEEN close to peg. During epoch expansions the protocol mints $KEEN and distributes it proportionally to all $iSKEEN holders who have staked their tokens in the Galaxy (boardroom).
@@ -13,6 +18,9 @@ $iSKEEN holders will have voting rights (governance) on proposals in the future 
 
 <img style="display: inline-block; float: right; margin-left: 20px;" src=
 "https://i.snap.as/uIYNpPpN.png" width="200"></img>
+
+[Buy iSKEEN with AVAX on TraderJoe](https://buyiskeen.ikeenfi.app) (quick link: https://buyiskeen.ikeenfi.app)
+
 ### $iBKEEN
 
 Keen Bonds ($iBKEEN)'s main job is to help incentivize an upward price movement in $KEEN. When the TWAP (Time Weighted Average Price) of $keen falls below 1 AVAX, iBKEEN is issued and can be bought with $KEEN at the current price.
